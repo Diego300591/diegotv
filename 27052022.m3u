@@ -1,0 +1,12 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://i.ibb.co/teCbpT/MEGA-SCZ-HD.jpg" group-title="BOLIVIA",MEGA SCZ HD
+https://livefocamundo.com:8081/megavisiontv/index.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://i.ibb.co/MpBHD7b/ATB-SCZ-HD-NEW.jpg" group-title="BOLIVIA",ATB SCZ HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="Latina.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RMFG5au.png" group-title="PERU",Latina
+http://177.53.152.186:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="ATV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="PERU",ATV (480p) [Not 24/7]
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="ATVPlus.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="PERU",ATV+ Noticias (480p) [Not 24/7]
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
